@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="leetcode" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/leetcode" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="array/Subsets.cc" />
+		<Unit filename="array/merge-sorted-array.cc" />
+		<Unit filename="array/pascals-triangle-ii.cc" />
+		<Unit filename="array/pascals-triangle.cc" />
+		<Unit filename="backtracting/backtracting.cc" />
+		<Unit filename="backtracting/palindrome-partitioning-ii.cc" />
+		<Unit filename="backtracting/palindrome-partitioning.cc" />
+		<Unit filename="backtracting/restore-ip-addresses.cc" />
+		<Unit filename="backtracting/subsets.cc" />
+		<Unit filename="backtracting/subsetsII.cc" />
+		<Unit filename="dp/Triangle.cc" />
+		<Unit filename="dp/best-time-to-buy-and-sell-stock.cc" />
+		<Unit filename="dp/candy.cc" />
+		<Unit filename="dp/longest-consecutive-sequence.cc" />
+		<Unit filename="dp/minimum-path-sum.cc" />
+		<Unit filename="dp/word-break.cc" />
+		<Unit filename="greedy/gas-station.cc" />
+		<Unit filename="header.h" />
+		<Unit filename="list/Palindrome-Linked-List.cc" />
+		<Unit filename="list/insertion-sort-list.cc" />
+		<Unit filename="list/linked-list-cycle-ii.cc" />
+		<Unit filename="list/linked-list-cycle.cc" />
+		<Unit filename="list/merge-two-sorted-lists.cc" />
+		<Unit filename="list/remove-duplicates-from-sorted-list-ii.cc" />
+		<Unit filename="list/remove-duplicates-from-sorted-list.cc" />
+		<Unit filename="list/reorder-list.cc" />
+		<Unit filename="list/reverse-linked-list-ii.cc" />
+		<Unit filename="list/rotate-list.cc" />
+		<Unit filename="other/single-number-ii.cc" />
+		<Unit filename="other/single-number-iii.cc" />
+		<Unit filename="other/single-number.cc" />
+		<Unit filename="sort/mergeSort.h" />
+		<Unit filename="sort/quickSort.h" />
+		<Unit filename="sort/sort.cc" />
+		<Unit filename="stack/evaluate-reverse-polish-notation.cc" />
+		<Unit filename="string/valid-palindrome.cc" />
+		<Unit filename="tree/balanced-binary-tree.cc" />
+		<Unit filename="tree/binary-tree-inorder-traversal.cc" />
+		<Unit filename="tree/binary-tree-level-order-traversal-ii.cc" />
+		<Unit filename="tree/binary-tree-level-order-traversal.cc" />
+		<Unit filename="tree/binary-tree-maximum-path-sum.cc" />
+		<Unit filename="tree/binary-tree-paths.cc" />
+		<Unit filename="tree/binary-tree-postorder-traversal.cc" />
+		<Unit filename="tree/binary-tree-preorder-traversal.cc" />
+		<Unit filename="tree/binary-tree-right-side-view.cc" />
+		<Unit filename="tree/binary-tree-zigzag-level-order-traversal.cc" />
+		<Unit filename="tree/convert-sorted-array-to-binary-search-tree.cc" />
+		<Unit filename="tree/convert-sorted-list-to-binary-search-tree.cc" />
+		<Unit filename="tree/maximum-depth-of-binary-tree.cc" />
+		<Unit filename="tree/minimum-depth-of-binary-tree.cc" />
+		<Unit filename="tree/path-sum-ii.cc" />
+		<Unit filename="tree/path-sum.cc" />
+		<Unit filename="tree/populating-next-right-pointers-in-each-node-ii.cc" />
+		<Unit filename="tree/populating-next-right-pointers-in-each-node.cc" />
+		<Unit filename="tree/same-tree.cc" />
+		<Unit filename="tree/sum-root-to-leaf-numbers.cc" />
+		<Unit filename="tree/validate-binary-search-tree.cc" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
