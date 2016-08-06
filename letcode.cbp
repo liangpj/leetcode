@@ -23,6 +23,7 @@
 		<Unit filename="array/merge-sorted-array.cc" />
 		<Unit filename="array/pascals-triangle-ii.cc" />
 		<Unit filename="array/pascals-triangle.cc" />
+		<Unit filename="backtracting/Generate-Parentheses.cc" />
 		<Unit filename="backtracting/backtracting.cc" />
 		<Unit filename="backtracting/palindrome-partitioning-ii.cc" />
 		<Unit filename="backtracting/palindrome-partitioning.cc" />
@@ -38,6 +39,7 @@
 		<Unit filename="greedy/gas-station.cc" />
 		<Unit filename="header.h" />
 		<Unit filename="list/Palindrome-Linked-List.cc" />
+		<Unit filename="list/add-two-numbers.cc" />
 		<Unit filename="list/insertion-sort-list.cc" />
 		<Unit filename="list/linked-list-cycle-ii.cc" />
 		<Unit filename="list/linked-list-cycle.cc" />
@@ -47,6 +49,8 @@
 		<Unit filename="list/reorder-list.cc" />
 		<Unit filename="list/reverse-linked-list-ii.cc" />
 		<Unit filename="list/rotate-list.cc" />
+		<Unit filename="math/Missing-Number.cc" />
+		<Unit filename="math/sqrt.cc" />
 		<Unit filename="other/single-number-ii.cc" />
 		<Unit filename="other/single-number-iii.cc" />
 		<Unit filename="other/single-number.cc" />
@@ -54,6 +58,10 @@
 		<Unit filename="sort/quickSort.h" />
 		<Unit filename="sort/sort.cc" />
 		<Unit filename="stack/evaluate-reverse-polish-notation.cc" />
+		<Unit filename="stack/longest-valid-parentheses.cc" />
+		<Unit filename="stack/valid-parentheses.cc" />
+		<Unit filename="string/Longest-Palindromic-Substring.cc" />
+		<Unit filename="string/Longest-Substring-Without-Repeating-Characters.cc" />
 		<Unit filename="string/valid-palindrome.cc" />
 		<Unit filename="tree/balanced-binary-tree.cc" />
 		<Unit filename="tree/binary-tree-inorder-traversal.cc" />

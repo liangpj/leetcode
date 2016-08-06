@@ -211,3 +211,224 @@
 1470295030 source:e:\c++\nowcoder\leetcode\letcode\list\remove-duplicates-from-sorted-list-ii.cc
 	"../header.h"
 
+1470296883 source:e:\c++\nowcoder\leetcode\array\merge-sorted-array.cc
+	"../header.h"
+
+1470296883 e:\c++\nowcoder\leetcode\header.h
+	<iostream>
+	<vector>
+	<list>
+	<iterator>
+	<string>
+	<sstream>
+	<stack>
+	<queue>
+	<map>
+	<set>
+	<unordered_set>
+	<cctype>
+	<algorithm>
+	<numeric>
+
+1470296883 source:e:\c++\nowcoder\leetcode\array\pascals-triangle-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\array\pascals-triangle.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\array\subsets.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\backtracting\backtracting.cc
+	<iostream>
+	<string>
+	<vector>
+
+1470405181 source:e:\c++\nowcoder\leetcode\backtracting\palindrome-partitioning-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\backtracting\palindrome-partitioning.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\backtracting\restore-ip-addresses.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\backtracting\subsets.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\backtracting\subsetsii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\best-time-to-buy-and-sell-stock.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\candy.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\longest-consecutive-sequence.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\minimum-path-sum.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\triangle.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\dp\word-break.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\greedy\gas-station.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\insertion-sort-list.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\linked-list-cycle-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\linked-list-cycle.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\merge-two-sorted-lists.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\palindrome-linked-list.cc
+	"../header.h"
+
+1470317628 source:e:\c++\nowcoder\leetcode\list\remove-duplicates-from-sorted-list-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\remove-duplicates-from-sorted-list.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\reorder-list.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\reverse-linked-list-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\list\rotate-list.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\other\single-number-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\other\single-number-iii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\other\single-number.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\sort\sort.cc
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<random>
+	"mergeSort.h"
+	"quickSort.h"
+
+1470296883 e:\c++\nowcoder\leetcode\sort\mergesort.h
+	<vector>
+
+1470296883 e:\c++\nowcoder\leetcode\sort\quicksort.h
+	<iostream>
+	<vector>
+
+1470296883 source:e:\c++\nowcoder\leetcode\stack\evaluate-reverse-polish-notation.cc
+	"../header.h"
+	<sstream>
+
+1470377889 source:e:\c++\nowcoder\leetcode\stack\longest-valid-parentheses.cc
+	"../header.h"
+
+1470298756 source:e:\c++\nowcoder\leetcode\stack\valid-parentheses.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\string\valid-palindrome.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\balanced-binary-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-inorder-traversal.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-level-order-traversal-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-level-order-traversal.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-maximum-path-sum.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-paths.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-postorder-traversal.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-preorder-traversal.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-right-side-view.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\binary-tree-zigzag-level-order-traversal.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\convert-sorted-array-to-binary-search-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\convert-sorted-list-to-binary-search-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\maximum-depth-of-binary-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\minimum-depth-of-binary-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\path-sum-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\path-sum.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\populating-next-right-pointers-in-each-node-ii.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\populating-next-right-pointers-in-each-node.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\same-tree.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\sum-root-to-leaf-numbers.cc
+	"../header.h"
+
+1470296883 source:e:\c++\nowcoder\leetcode\tree\validate-binary-search-tree.cc
+	"../header.h"
+
+1470380503 source:e:\c++\nowcoder\leetcode\math\sqrt.cc
+	"../header.h"
+
+1470382592 source:e:\c++\nowcoder\leetcode\list\add-two-numbers.cc
+	"../header.h"
+
+1470398111 source:e:\c++\nowcoder\leetcode\string\longest-substring-without-repeating-characters.cc
+	"../header.h"
+
+1470398102 source:e:\c++\nowcoder\leetcode\math\missing-number.cc
+	"../header.h"
+
+1470404952 source:e:\c++\nowcoder\leetcode\backtracting\generate-parentheses.cc
+	"../header.h"
+
+1470469862 source:e:\c++\nowcoder\leetcode\string\longest-palindromic-substring.cc
+	"../header.h"
+
+1470471600 source:e:\c++\nowcoder\leetcode\array\container-with-most-water.cc
+	"../header.h"
+

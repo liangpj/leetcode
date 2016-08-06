@@ -8,6 +8,7 @@ For example, given s = "aab",
 Return 1 since the palindrome partitioning ["aa","b"] could be produced using 1 cut.
 */
 
+static
 bool isPalindrome(const string &s)
 {
     int l = 0;

@@ -2,179 +2,9 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="greedy\gas-station.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1404" topLine="26" />
-		</Cursor>
-	</File>
-	<File name="dp\minimum-path-sum.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="975" topLine="27" />
-		</Cursor>
-	</File>
-	<File name="tree\same-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="232" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="tree\binary-tree-postorder-traversal.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="459" topLine="10" />
-		</Cursor>
-	</File>
-	<File name="dp\longest-consecutive-sequence.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="939" topLine="25" />
-		</Cursor>
-	</File>
-	<File name="tree\sum-root-to-leaf-numbers.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1284" topLine="34" />
-		</Cursor>
-	</File>
-	<File name="tree\binary-tree-preorder-traversal.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="198" topLine="48" />
-		</Cursor>
-	</File>
-	<File name="dp\candy.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1089" topLine="20" />
-		</Cursor>
-	</File>
-	<File name="tree\validate-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1306" topLine="33" />
-		</Cursor>
-	</File>
-	<File name="dp\best-time-to-buy-and-sell-stock.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1227" topLine="36" />
-		</Cursor>
-	</File>
-	<File name="tree\binary-tree-maximum-path-sum.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="373" topLine="16" />
-		</Cursor>
-	</File>
 	<File name="tree\binary-tree-level-order-traversal.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="329" topLine="99" />
-		</Cursor>
-	</File>
-	<File name="tree\binary-tree-inorder-traversal.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="885" topLine="37" />
-		</Cursor>
-	</File>
-	<File name="tree\balanced-binary-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="277" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="sort\sort.cc" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="181" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="string\valid-palindrome.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="774" topLine="10" />
-		</Cursor>
-	</File>
-	<File name="stack\evaluate-reverse-polish-notation.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="330" topLine="6" />
-		</Cursor>
-	</File>
-	<File name="other\single-number.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="417" topLine="6" />
-		</Cursor>
-	</File>
-	<File name="other\single-number-iii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="786" topLine="23" />
-		</Cursor>
-	</File>
-	<File name="list\rotate-list.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1327" topLine="48" />
-		</Cursor>
-	</File>
-	<File name="other\single-number-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="559" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="dp\Triangle.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2915" topLine="42" />
-		</Cursor>
-	</File>
-	<File name="list\reverse-linked-list-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1034" topLine="48" />
-		</Cursor>
-	</File>
-	<File name="backtracting\subsetsII.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1076" topLine="17" />
-		</Cursor>
-	</File>
-	<File name="list\reorder-list.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="269" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="backtracting\subsets.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="889" topLine="18" />
-		</Cursor>
-	</File>
-	<File name="list\remove-duplicates-from-sorted-list-ii.cc" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="930" topLine="26" />
-		</Cursor>
-	</File>
-	<File name="backtracting\restore-ip-addresses.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2149" topLine="62" />
-		</Cursor>
-	</File>
-	<File name="list\remove-duplicates-from-sorted-list.cc" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="366" topLine="8" />
-		</Cursor>
-	</File>
-	<File name="backtracting\palindrome-partitioning.cc" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="282" topLine="9" />
-		</Cursor>
-	</File>
-	<File name="tree\convert-sorted-list-to-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2137" topLine="84" />
-		</Cursor>
-	</File>
-	<File name="list\merge-two-sorted-lists.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1462" topLine="61" />
-		</Cursor>
-	</File>
-	<File name="backtracting\palindrome-partitioning-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1088" topLine="29" />
-		</Cursor>
-	</File>
-	<File name="tree\maximum-depth-of-binary-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="511" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="list\linked-list-cycle.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1394" topLine="18" />
 		</Cursor>
 	</File>
 	<File name="backtracting\backtracting.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -182,59 +12,59 @@
 			<Cursor1 position="2852" topLine="94" />
 		</Cursor>
 	</File>
-	<File name="tree\minimum-depth-of-binary-tree.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="tree\binary-tree-maximum-path-sum.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="244" topLine="0" />
+			<Cursor1 position="373" topLine="16" />
 		</Cursor>
 	</File>
-	<File name="list\linked-list-cycle-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="backtracting\palindrome-partitioning-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1460" topLine="11" />
+			<Cursor1 position="949" topLine="32" />
 		</Cursor>
 	</File>
-	<File name="array\pascals-triangle.cc" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="sort\sort.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="538" topLine="15" />
+			<Cursor1 position="181" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="tree\path-sum-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="backtracting\palindrome-partitioning.cc" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1814" topLine="53" />
+			<Cursor1 position="282" topLine="9" />
 		</Cursor>
 	</File>
-	<File name="tree\convert-sorted-array-to-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="stack\evaluate-reverse-polish-notation.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="324" topLine="9" />
+			<Cursor1 position="330" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="list\insertion-sort-list.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="tree\binary-tree-postorder-traversal.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="149" topLine="0" />
+			<Cursor1 position="459" topLine="10" />
 		</Cursor>
 	</File>
-	<File name="array\pascals-triangle-ii.cc" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="backtracting\restore-ip-addresses.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="466" topLine="0" />
+			<Cursor1 position="2149" topLine="62" />
 		</Cursor>
 	</File>
-	<File name="dp\word-break.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="stack\longest-valid-parentheses.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1425" topLine="33" />
+			<Cursor1 position="565" topLine="7" />
 		</Cursor>
 	</File>
-	<File name="list\Palindrome-Linked-List.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="tree\binary-tree-preorder-traversal.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1171" topLine="51" />
+			<Cursor1 position="198" topLine="48" />
 		</Cursor>
 	</File>
-	<File name="array\merge-sorted-array.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="backtracting\subsets.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1012" topLine="8" />
+			<Cursor1 position="889" topLine="18" />
 		</Cursor>
 	</File>
-	<File name="tree\populating-next-right-pointers-in-each-node-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="stack\valid-parentheses.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2533" topLine="70" />
+			<Cursor1 position="1100" topLine="3" />
 		</Cursor>
 	</File>
 	<File name="tree\binary-tree-right-side-view.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -242,14 +72,104 @@
 			<Cursor1 position="1297" topLine="54" />
 		</Cursor>
 	</File>
+	<File name="backtracting\subsetsII.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1076" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="string\valid-palindrome.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="774" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="tree\binary-tree-zigzag-level-order-traversal.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1151" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="dp\Triangle.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2915" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="tree\balanced-binary-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="277" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tree\convert-sorted-array-to-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="324" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="dp\best-time-to-buy-and-sell-stock.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1227" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="tree\binary-tree-inorder-traversal.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="885" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="tree\convert-sorted-list-to-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2137" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="dp\candy.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1089" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="tree\maximum-depth-of-binary-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="511" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="dp\longest-consecutive-sequence.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="939" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="tree\minimum-depth-of-binary-tree.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="244" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dp\minimum-path-sum.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="975" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="tree\path-sum-ii.cc" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="381" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dp\word-break.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1425" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="tree\path-sum.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="418" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="greedy\gas-station.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1404" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="tree\populating-next-right-pointers-in-each-node-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2533" topLine="70" />
+		</Cursor>
+	</File>
 	<File name="header.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="72" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="array\Subsets.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="597" topLine="22" />
 		</Cursor>
 	</File>
 	<File name="tree\populating-next-right-pointers-in-each-node.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -257,9 +177,134 @@
 			<Cursor1 position="3583" topLine="121" />
 		</Cursor>
 	</File>
-	<File name="tree\binary-tree-zigzag-level-order-traversal.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="math\sqrt.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1151" topLine="28" />
+			<Cursor1 position="949" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="list\Palindrome-Linked-List.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1171" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="tree\same-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="232" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="string\Longest-Substring-Without-Repeating-Characters.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1299" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="list\insertion-sort-list.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="237" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tree\sum-root-to-leaf-numbers.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1284" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="list\linked-list-cycle-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1460" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="tree\validate-binary-search-tree.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1306" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="list\add-two-numbers.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2062" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="list\linked-list-cycle.cc" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1394" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="backtracting\Generate-Parentheses.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="894" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="list\merge-two-sorted-lists.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1462" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="list\remove-duplicates-from-sorted-list-ii.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1182" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="list\remove-duplicates-from-sorted-list.cc" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="348" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="math\Missing-Number.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1146" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="list\reorder-list.cc" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="370" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="string\Longest-Palindromic-Substring.cc" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="782" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="list\reverse-linked-list-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1034" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="list\rotate-list.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1245" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="array\Subsets.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="597" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="other\single-number-ii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="559" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="array\merge-sorted-array.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1012" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="other\single-number-iii.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="786" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="array\pascals-triangle-ii.cc" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="466" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="other\single-number.cc" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="417" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="array\pascals-triangle.cc" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="538" topLine="15" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

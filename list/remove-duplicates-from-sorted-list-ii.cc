@@ -59,17 +59,17 @@ ListNode * creatList(vector<int> &ivec)
     return head;
 }
 
-int main()
-{
-    vector<int> ivec = {1,1,1,2,3};
-    auto head = creatList(ivec);
-    head = deleteDuplicates(head);
-    auto tmp = head;
-    while(tmp) {
-        cout << tmp->val << " ";
-        tmp = tmp->next;
-    }
-    cout << endl;
-
-    return 0;
-}
+//int main()
+//{
+//    vector<int> ivec = {1,1,1,2,3};
+//    auto head = creatList(ivec);
+//    head = deleteDuplicates(head);
+//    auto tmp = head;
+//    while(tmp) {
+//        cout << tmp->val << " ";
+//        tmp = tmp->next;
+//    }
+//    cout << endl;
+//
+//    return 0;
+//}
