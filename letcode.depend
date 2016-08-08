@@ -214,7 +214,7 @@
 1470296883 source:e:\c++\nowcoder\leetcode\array\merge-sorted-array.cc
 	"../header.h"
 
-1470296883 e:\c++\nowcoder\leetcode\header.h
+1470557737 e:\c++\nowcoder\leetcode\header.h
 	<iostream>
 	<vector>
 	<list>
@@ -226,6 +226,7 @@
 	<map>
 	<set>
 	<unordered_set>
+	<unordered_map>
 	<cctype>
 	<algorithm>
 	<numeric>
@@ -430,5 +431,46 @@
 	"../header.h"
 
 1470471600 source:e:\c++\nowcoder\leetcode\array\container-with-most-water.cc
+	"../header.h"
+
+1470473391 source:e:\c++\nowcoder\leetcode\array\3sum.cc
+	"../header.h"
+
+1470482910 source:e:\c++\nowcoder\leetcode\array\3sum-closest.cc
+	"../header.h"
+
+1470487355 source:e:\c++\nowcoder\leetcode\backtracting\letter-combinations-of-a-phone-numbe.cc
+	"../header.h"
+
+1470489040 source:e:\c++\nowcoder\leetcode\array\4sum.cc
+	"../header.h"
+
+1470492305 source:e:\c++\nowcoder\leetcode\list\swap-nodes-in-pairs.cc
+	"../header.h"
+
+1470539000 source:e:\c++\nowcoder\leetcode\list\reverse-nodes-in-k-group.cc
+	"../header.h"
+
+1470541939 source:e:\c++\nowcoder\leetcode\binarysearch\divide-two-integers.cc
+
+1470559439 source:e:\c++\nowcoder\leetcode\string\substring-with-concatenation-of-all-words.cc
+	"../header.h"
+
+1470569472 source:e:\c++\nowcoder\leetcode\backtracting\permutations.cc
+	"../header.h"
+
+1470574032 source:e:\c++\nowcoder\leetcode\array\next-permutation.cc
+	"../header.h"
+
+1470575143 source:e:\c++\nowcoder\leetcode\binarysearch\search-for-a-range.cc
+	"../header.h"
+
+1470575631 source:e:\c++\nowcoder\leetcode\binarysearch\search-insert-position.cc
+	"../header.h"
+
+1470624090 source:e:\c++\nowcoder\leetcode\array\valid-sudoku.cc
+	"../header.h"
+
+1470641140 source:e:\c++\nowcoder\leetcode\backtracting\sudoku-solver.cc
 	"../header.h"
 

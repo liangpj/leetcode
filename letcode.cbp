@@ -19,17 +19,28 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="array/3Sum-Closest.cc" />
+		<Unit filename="array/3Sum.cc" />
+		<Unit filename="array/4Sum.cc" />
+		<Unit filename="array/Container-With-Most-Water.cc" />
+		<Unit filename="array/Next-Permutation.cc" />
 		<Unit filename="array/Subsets.cc" />
+		<Unit filename="array/Valid-Sudoku.cc" />
 		<Unit filename="array/merge-sorted-array.cc" />
 		<Unit filename="array/pascals-triangle-ii.cc" />
 		<Unit filename="array/pascals-triangle.cc" />
 		<Unit filename="backtracting/Generate-Parentheses.cc" />
+		<Unit filename="backtracting/Letter-Combinations-of-a-Phone-Numbe.cc" />
+		<Unit filename="backtracting/Permutations.cc" />
 		<Unit filename="backtracting/backtracting.cc" />
 		<Unit filename="backtracting/palindrome-partitioning-ii.cc" />
 		<Unit filename="backtracting/palindrome-partitioning.cc" />
 		<Unit filename="backtracting/restore-ip-addresses.cc" />
 		<Unit filename="backtracting/subsets.cc" />
 		<Unit filename="backtracting/subsetsII.cc" />
+		<Unit filename="binarySearch/Divide-Two-Integers.cc" />
+		<Unit filename="binarySearch/Search-Insert-Position.cc" />
+		<Unit filename="binarySearch/Search-for-a-Range.cc" />
 		<Unit filename="dp/Triangle.cc" />
 		<Unit filename="dp/best-time-to-buy-and-sell-stock.cc" />
 		<Unit filename="dp/candy.cc" />
@@ -39,6 +50,8 @@
 		<Unit filename="greedy/gas-station.cc" />
 		<Unit filename="header.h" />
 		<Unit filename="list/Palindrome-Linked-List.cc" />
+		<Unit filename="list/Reverse-Nodes-in-k-Group.cc" />
+		<Unit filename="list/Swap-Nodes-in-Pairs.cc" />
 		<Unit filename="list/add-two-numbers.cc" />
 		<Unit filename="list/insertion-sort-list.cc" />
 		<Unit filename="list/linked-list-cycle-ii.cc" />
@@ -62,6 +75,7 @@
 		<Unit filename="stack/valid-parentheses.cc" />
 		<Unit filename="string/Longest-Palindromic-Substring.cc" />
 		<Unit filename="string/Longest-Substring-Without-Repeating-Characters.cc" />
+		<Unit filename="string/Substring-with-Concatenation-of-All-Words.cc" />
 		<Unit filename="string/valid-palindrome.cc" />
 		<Unit filename="tree/balanced-binary-tree.cc" />
 		<Unit filename="tree/binary-tree-inorder-traversal.cc" />
